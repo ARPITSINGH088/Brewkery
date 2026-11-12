@@ -344,7 +344,7 @@ Internet access is required because menu and product information is retrieved fr
 
 ## 🤖 AI Usage
 
-AI tools were used during development as a productivity and development-assistance tool.
+AI tools  like ChatGPT and Claude were used during development as a productivity and development-assistance tool .
 
 ### Prompts / Tasks Used
 
